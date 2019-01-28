@@ -226,6 +226,7 @@ body {
     .main-section {background-color:black;width:100%; padding-left: 1px;padding-right:1px;color: white;border-color:slategray;}
     #logo {background-color: black;color:white;}
     h3 {background-color: black;color:white;}
+    #work {float: left;width:50%;}
 };
 
   @media screen and (max-width:768px){
